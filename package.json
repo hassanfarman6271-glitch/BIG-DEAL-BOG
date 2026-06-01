@@ -1,0 +1,12 @@
+{
+  "name": "big-deal-bot",
+  "version": "1.0.0",
+  "description": "Discord bot hosted on Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
